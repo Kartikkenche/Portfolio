@@ -137,7 +137,7 @@ function App() {
             <span className="text-green-400">Software Developer</span>
           </h1>
           <p className="text-xl md:text-2xl text-gray-300 mb-8 max-w-3xl mx-auto">
-            First-year engineering student passionate about cybersecurity, embedded systems, and IoT. 
+            Final-year engineering student passionate about cybersecurity, embedded systems, and IoT. 
             Building secure, innovative solutions for real-world challenges.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -170,7 +170,7 @@ function App() {
                 Passionate About Technology & Security
               </h3>
               <p className="text-gray-700 mb-6 leading-relaxed">
-                As a first-year engineering student specializing in Electronics and Telecommunication, 
+                As a final-year engineering student specializing in Electronics and Telecommunication, 
                 I bring a unique blend of software development skills and cybersecurity expertise. 
                 My passion lies in creating secure, innovative solutions that address real-world challenges.
               </p>
@@ -204,7 +204,6 @@ function App() {
                     <li>• Embedded Systems & IoT</li>
                     <li>• Network Security & Analysis</li>
                     <li>• Web Development</li>
-                    <li>• Quality Assurance</li>
                   </ul>
                 </div>
               </div>
@@ -380,8 +379,8 @@ function App() {
                   <span className="text-2xl mr-4">📧</span>
                   <div>
                     <p className="font-semibold text-gray-900">Email</p>
-                    <a href="mailto:kartikkenche5@gmail.com" className="text-blue-600 hover:underline">
-                      kartikkenche5@gmail.com
+                    <a href="mailto:kartikkenche96@gmail.com" className="text-blue-600 hover:underline">
+                      kartikkenche96@gmail.com
                     </a>
                   </div>
                 </div>
@@ -389,8 +388,8 @@ function App() {
                   <span className="text-2xl mr-4">📱</span>
                   <div>
                     <p className="font-semibold text-gray-900">Phone</p>
-                    <a href="tel:+919523639267" className="text-blue-600 hover:underline">
-                      +91 9523639267
+                    <a href="tel:+919529690907" className="text-blue-600 hover:underline">
+                      +91 9529690907
                     </a>
                   </div>
                 </div>
@@ -407,7 +406,7 @@ function App() {
               <h3 className="text-2xl font-bold text-gray-900 mb-6">Quick Links</h3>
               <div className="space-y-4">
                 <a
-                  href="https://linkedin.com/in/kartikkenche"
+                  href="https://www.linkedin.com/in/kartik-kenche-2b48432b4/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center p-4 bg-blue-50 rounded-lg hover:bg-blue-100 transition-colors"
